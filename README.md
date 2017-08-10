@@ -1,14 +1,7 @@
 # Galeria
 
 Try to extract paths of people walking from my video taken from Galeria
-in Berlin
-
-# Example output
-
-<video width="640" height="640" controls>
-  <source src="examples/output_restart.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+in Berlin ([example output](examples/output_restart.mp4), see also [on twitter](https://twitter.com/mike_moran/status/895442965446963205))
 
 # Install
 
